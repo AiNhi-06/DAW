@@ -1,4 +1,13 @@
+# Frontend
 streamlit
-pandas
+
+# Backend
+fastapi
+uvicorn[standard]
+
+# Scraping
 requests
 beautifulsoup4
+
+# Data
+pandas
