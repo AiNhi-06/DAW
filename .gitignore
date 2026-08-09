@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment/Data
+.venv/
+venv/
+data/raw/
+data/processed/
+data/output/
+logs/
+.streamlit/
