@@ -1,12 +1,6 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Environment/Data
+*.pyc
 .venv/
-venv/
-data/raw/
-data/processed/
-data/output/
-logs/
+.env
+uploads/*
+!uploads/.gitkeep
