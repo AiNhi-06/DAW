@@ -1,0 +1,8 @@
+{
+  "ocr_confidence_warning": 0.70,
+  "required_documents": [
+    "CCCD/CMND",
+    "Học bạ/Bảng điểm",
+    "Giấy chứng nhận tốt nghiệp"
+  ]
+}

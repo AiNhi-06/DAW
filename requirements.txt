@@ -1,13 +1,16 @@
-# Frontend
-streamlit
-
-# Backend
 fastapi
 uvicorn[standard]
-
-# Scraping
+sqlalchemy
+psycopg2-binary
+python-multipart
+pydantic-settings
+passlib[bcrypt]
+streamlit
 requests
-beautifulsoup4
-
-# Data
 pandas
+opencv-python
+Pillow
+paddleocr
+paddlepaddle
+python-dotenv
+qrcode[pil]
